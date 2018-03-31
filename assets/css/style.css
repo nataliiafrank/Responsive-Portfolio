@@ -181,6 +181,11 @@ footer {
     margin-bottom: 0;
 }
 
+.work a {
+    color: #fff;
+    text-decoration: none;
+}
+
 form ul {
     margin: 20px 0;
 }
